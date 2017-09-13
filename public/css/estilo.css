@@ -1,0 +1,19 @@
+
+span{
+    color: #f66;
+    font-size: 20px;
+    padding-left: 100px;
+}
+button{
+    color: #fff;
+    border-radius: 10px;
+    background-color: #2ab27b;
+    width: 100px
+}
+button:hover{
+    background-color: #000;
+}
+.container{
+    width: 100%;
+    text-align: center;
+}
